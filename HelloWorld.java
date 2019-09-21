@@ -3,6 +3,7 @@ public class HelloWorld {
     System.out.println("Hello, SwEng!");
     System.out.println("The ultimate question of Life, The Universe, and Everything is: " + computeUltimateQuestion());
     System.out.println("The answer to the ultimate question of Life, The Universe, and Everything is: " + computeUltimateAnswer());
+    System.out.println("Useless print :)");
   }
   public static String computeUltimateQuestion() {
 	  return "still searching...";
